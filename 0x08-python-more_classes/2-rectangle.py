@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Defines the area and perimeter of a Rectangle
+Defines a class Rectangle
 """
 
 
