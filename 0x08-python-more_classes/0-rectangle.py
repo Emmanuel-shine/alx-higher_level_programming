@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """
-0-rectangle: class rectangle
+0-rectangle: class Rectangle
 """
 
-class rectangle:
+class Rectangle:
     """ Empty class """
     pass
