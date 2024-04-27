@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""defining add_item function"""
+
+
 import sys
 from os import path
 from 5-save_to_json_file import save_to_json_file
@@ -15,6 +18,4 @@ else:
 # Add new items from command line arguments
 items.extend(sys.argv[1:])
 
-# Save the updated list to the file
-save_to_json_file(items, filename)
-
+# Save the updated list
